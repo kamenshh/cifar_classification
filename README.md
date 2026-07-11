@@ -46,7 +46,7 @@ label,pixel_0,pixel_1,pixel_2,...,pixel_3071
 
 ```bash
 pip install numpy pandas torch torchvision scikit-learn matplotlib tqdm
-
+```
 ## Модель
 
 В проекте используется простая CNN-модель. Она состоит из сверточных слоев, batch normalization, max pooling, dropout и двух полносвязных слоев в конце.
