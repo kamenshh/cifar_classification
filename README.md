@@ -109,7 +109,6 @@ cifar_classification/
 |-- data_analysis.py        # показывает базовую информацию о данных
 |-- education.py            # CNN-модель и обучение
 |-- metrics.py              # метрики обученной модели
-`-- README.md
 ```
 
 ## Кратко
